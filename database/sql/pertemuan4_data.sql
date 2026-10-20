@@ -17,6 +17,7 @@ VALUES
     ('2201020099', 'Data Sementara',
      'sementara@example.com', 18, 2);
 
+
 UPDATE mahasiswa
 SET email = 'devinanana@example.com'
 WHERE nim = '2401020153';

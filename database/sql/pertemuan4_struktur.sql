@@ -1,8 +1,9 @@
-CREATE DATABASE IF NOT EXISTS praktikum_web
+CREATE DATABASE IF NOT EXISTS praktikum_web_2401020150
+
     CHARACTER SET utf8mb4
     COLLATE utf8mb4_unicode_ci;
 
-USE praktikum_web;
+USE praktikum_web_2401020150;
 
 CREATE TABLE program_studi (
     id BIGINT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
